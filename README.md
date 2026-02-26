@@ -1,81 +1,72 @@
+<h1 align="center">Hi 👋, I'm Himanshu Verma</h1>
+<h3 align="center">Full Stack Developer | React • Node • MongoDB</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Himanshu+Verma;Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;1000%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications+🚀" />
+  <a href="https://github.com/HimanshuVerma5">
+    <img src="https://komarev.com/ghpvc/?username=HimanshuVerma5&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
 ---
 
-## 🖥️ Terminal Identity
+### 👨‍💻 About Me
 
-```bash
-> whoami
-Himanshu Verma
+- 🎓 B.Tech (ECE) | Bundelkhand University, Jhansi  
+- 💼 Former Frontend Developer Intern @ CrazyWebDev Technologies  
+- 🧠 Solved **1000+ DSA problems** (600+ on LeetCode, ⭐ 3-Star)  
+- 🚀 Passionate about building scalable full-stack applications  
+- 📍 Based in Noida, India  
 
-> role
-Full Stack Developer
+---
 
-> location
-Noida, India
+### 🚀 Featured Projects
 
-> leetcode_stats
-1000+ problems solved
-600+ on LeetCode
-⭐ 3-Star Rating
+#### 🔥 DevTinder  
+Full-stack Developer Networking Platform  
+- JWT Authentication  
+- REST API Architecture  
+- MongoDB Schema Modeling  
+🔗 https://github.com/HimanshuVerma5/devTinder  
 
-Frontend:
-  - React.js
-  - Tailwind CSS
-  - Redux Toolkit
+---
 
-Backend:
-  - Node.js
-  - Express.js
-  - REST APIs
-  - JWT Authentication
+#### 🎨 Mini Image Editor  
+React + HTML5 Canvas based image editor  
+- Crop, Rotate, Flip, Zoom  
+- Real-time preview  
+🌐 https://mini-image-editor-sigma.vercel.app  
 
-Database:
-  - MongoDB
-  - MySQL
+---
 
-Languages:
-  - Java
-  - JavaScript
-  - SQL
+#### 🏥 Dr-Dr+  
+Healthcare Booking Platform  
+- Doctor filtering & authentication  
+- Modular architecture  
+🔗 https://github.com/HimanshuVerma5/Dr-Dr-  
 
-Tools:
-  - Git & GitHub
-  - Postman
-  - VS Code
-  - Chrome DevTools
-  🚀 Featured Builds
-🔥 DevTinder
+---
 
-Full-stack Developer Networking Platform
-→ JWT Authentication
-→ REST API Architecture
-→ MongoDB Schema Modeling
-🔗 https://github.com/HimanshuVerma5/devTinder
+### 🛠 Tech Stack
 
-🎨 Mini Image Editor
+**Frontend:** React.js, Tailwind CSS, Redux Toolkit  
+**Backend:** Node.js, Express.js, REST APIs, JWT  
+**Database:** MongoDB, MySQL  
+**Languages:** Java, JavaScript, SQL  
+**Tools:** Git, GitHub, Postman, VS Code  
 
-React + HTML5 Canvas Image Editing App
-→ Crop, Rotate, Flip, Zoom
-→ Real-time Preview
-🔗 https://mini-image-editor-sigma.vercel.app
+---
 
-🏥 Dr-Dr+
+### 📊 GitHub Stats
 
-Healthcare Booking Platform
-→ Doctor Filtering
-→ Authentication System
-→ Modular Architecture
-🔗 https://github.com/HimanshuVerma5/Dr-Dr-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuVerma5&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuVerma5&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
-📊 System Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HimanshuVerma5&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuVerma5&layout=compact&theme=tokyonight" /> </p>
-📡 Connect
+---
 
-GitHub → https://github.com/HimanshuVerma5
+### 📫 Connect With Me
 
-LinkedIn → https://linkedin.com/in/himanshu-verma-bu/
-
-LeetCode → https://leetcode.com/Radhe_Coder/
+- 💼 LinkedIn: https://linkedin.com/in/himanshu-verma-bu/  
+- 🧠 LeetCode: https://leetcode.com/Radhe_Coder/  
+- 📧 Email: himanshuverma57251@gmail.com
